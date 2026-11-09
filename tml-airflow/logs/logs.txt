@@ -12306,3 +12306,5 @@ origin	https://<personal access token hidden>@github.com/Lyn-X-droid/raspberrypi
 1a43046287cff1bac815ea003ca799290620687c8c55ccbe9a753d8b7becd8c1
 Error response from daemon: failed to export layer: CreateDiff: mount callback failed on /var/lib/desktop-containerd/daemon/tmpmounts/containerd-mount2976798383: mount callback failed on /var/lib/desktop-containerd/daemon/tmpmounts/containerd-mount1704698098: failed to commit: rename /var/lib/desktop-containerd/daemon/io.containerd.content.v1.content/ingest/4f73e766137129f68516d2ff71a9ee4d08cfda679417b90b9e0cbb6ddff63437/data /var/lib/desktop-containerd/daemon/io.containerd.content.v1.content/blobs/sha256/5e50e705f39f386863ada7c9eda9ed9dcbc086c1c1c2ceff75cf5263e8134a9d: no such file or directory
 [ERROR] Docker commit structural assembly mapping failed.
+[INFO 2026-11-09_17:14:31] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-myawesometmlsolutionml-20d5.py
+[INFO 2026-11-09_17:14:31] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-myawesometmlsolutionml-20d5.py

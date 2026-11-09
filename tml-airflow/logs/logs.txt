@@ -12439,3 +12439,5 @@ Login Succeeded
 d23a998b0a1d346410c3d7cfb0d4def608790bf23d2088a13259a3105ac2d077
 Error response from daemon: failed to export layer: CreateDiff: mount callback failed on /var/lib/desktop-containerd/daemon/tmpmounts/containerd-mount421522664: mount callback failed on /var/lib/desktop-containerd/daemon/tmpmounts/containerd-mount1898501401: failed to commit: rename /var/lib/desktop-containerd/daemon/io.containerd.content.v1.content/ingest/883f590778a4735a7187f8a7821b50ade43fe364c6d8928189e6eda51ce18b98/data /var/lib/desktop-containerd/daemon/io.containerd.content.v1.content/blobs/sha256/b1b8b5428b7a0c62ea7f1c25eca6c73dc37957017c42583e9bfc309b8712d4df: no such file or directory
 [ERROR] Docker commit structural assembly mapping failed.
+[INFO 2026-11-09_17:30:41] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-myawesometmlsolutionml-20d5.py
+[INFO 2026-11-09_17:30:41] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-myawesometmlsolutionml-20d5.py

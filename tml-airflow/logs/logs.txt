@@ -12315,3 +12315,5 @@ Error response from daemon: failed to export layer: CreateDiff: mount callback f
 🚀 STARTING 4-STEP OPTIMIZATION FOR: lynx101/myawesometmlsolutionml-20d5-ml-amd64-tmlworking
 =============================================================
 4593c8ff55318542292140a5a3ef1223e0512e455315611a0bd9506812c1d8f0
+Error response from daemon: failed to export layer: CreateDiff: mount callback failed on /var/lib/desktop-containerd/daemon/tmpmounts/containerd-mount1336457038: mount callback failed on /var/lib/desktop-containerd/daemon/tmpmounts/containerd-mount1692500605: failed to commit: rename /var/lib/desktop-containerd/daemon/io.containerd.content.v1.content/ingest/fa2c019057f157bd20881e4f9b51ad25f70f805a8796f90ea92cd2b5b4aa5836/data /var/lib/desktop-containerd/daemon/io.containerd.content.v1.content/blobs/sha256/c235d9d971ee9f8006d4fbeb08047475e69702d55f7589e077f0a6dbb4983c2d: no such file or directory
+[ERROR] Docker commit structural assembly mapping failed.

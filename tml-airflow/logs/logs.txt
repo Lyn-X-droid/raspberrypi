@@ -12548,3 +12548,4 @@ Error response from daemon: failed to export layer: CreateDiff: mount callback f
 [INFO 2026-11-09_17:33:17] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-myawesometmlsolutionml-20d5.py
 [INFO 2026-11-09_17:33:21] Predictions DAG in tml_system_step_6_kafka_predictions_dag-myawesometmlsolutionml-20d5.py
 [INFO 2026-11-09_17:33:21] Machine Learning DAG in tml_system_step_5_kafka_machine_learning_dag-myawesometmlsolutionml-20d5.py
+[INFO 2026-11-09_17:33:31] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-myawesometmlsolutionml-20d5.py

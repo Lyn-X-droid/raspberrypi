@@ -12428,3 +12428,5 @@ https://docs.docker.com/engine/reference/commandline/login/#credentials-store
 Login Succeeded
 ✅ PIPELINE COMPLETE: lynx101/myawesometmlsolutionml-20d5-ml-amd64 has been processed successfully.
 =============================================================
+[INFO 2026-11-09_17:28:07] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-myawesometmlsolutionml-20d5.py
+[INFO 2026-11-09_17:28:07] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-myawesometmlsolutionml-20d5.py

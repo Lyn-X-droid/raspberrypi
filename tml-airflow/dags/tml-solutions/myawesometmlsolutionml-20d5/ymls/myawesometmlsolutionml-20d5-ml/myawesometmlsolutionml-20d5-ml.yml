@@ -51,7 +51,7 @@
              - name: CLIENTPORT
                value: '0'
              - name: EXTERNALPORT
-               value: '37345'
+               value: '33511'
              - name: KAFKACLOUDUSERNAME
                value: ''
              - name: VIPERVIZPORT
